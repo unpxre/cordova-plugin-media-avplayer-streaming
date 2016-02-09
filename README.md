@@ -19,6 +19,9 @@
 
 # cordova-plugin-media
 
+Fork from
+https://github.com/ghenry22/cordova-plugin-media.git#avplayer_streaming
+
 
 This plugin provides the ability to record and play back audio files on a device.
 
